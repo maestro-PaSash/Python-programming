@@ -1,4 +1,4 @@
-import json
+укйцуйуйу
 import keyboard as keyboard
 import vk_api
 from vk_api.keyboard import VkKeyboard, VkKeyboardColor
